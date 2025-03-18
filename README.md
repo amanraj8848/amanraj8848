@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ⚡Microservices  (◎﹏◎)
+🔭 I’m currently working on ⚡AI Agents, MCP Servers, Microservices etc  (◎﹏◎)
 
 
 ## 🌐 Socials:
